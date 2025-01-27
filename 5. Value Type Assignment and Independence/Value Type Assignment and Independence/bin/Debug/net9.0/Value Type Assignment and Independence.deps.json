@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Value Type Assignment and Independence/1.0.0": {
+        "runtime": {
+          "Value Type Assignment and Independence.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Value Type Assignment and Independence/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

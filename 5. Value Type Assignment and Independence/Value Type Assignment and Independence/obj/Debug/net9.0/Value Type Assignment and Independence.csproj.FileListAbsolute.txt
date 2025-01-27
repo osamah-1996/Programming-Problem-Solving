@@ -1,0 +1,15 @@
+D:\Problem Solving\5. Value Type Assignment and Independence\Value Type Assignment and Independence\obj\Debug\net9.0\Value Type Assignment and Independence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Problem Solving\5. Value Type Assignment and Independence\Value Type Assignment and Independence\obj\Debug\net9.0\Value Type Assignment and Independence.AssemblyInfoInputs.cache
+D:\Problem Solving\5. Value Type Assignment and Independence\Value Type Assignment and Independence\obj\Debug\net9.0\Value Type Assignment and Independence.AssemblyInfo.cs
+D:\Problem Solving\5. Value Type Assignment and Independence\Value Type Assignment and Independence\obj\Debug\net9.0\Value Type Assignment and Independence.csproj.CoreCompileInputs.cache
+D:\Problem Solving\5. Value Type Assignment and Independence\Value Type Assignment and Independence\obj\Debug\net9.0\Value Type Assignment and Independence.sourcelink.json
+D:\Problem Solving\5. Value Type Assignment and Independence\Value Type Assignment and Independence\bin\Debug\net9.0\Value Type Assignment and Independence.exe
+D:\Problem Solving\5. Value Type Assignment and Independence\Value Type Assignment and Independence\bin\Debug\net9.0\Value Type Assignment and Independence.deps.json
+D:\Problem Solving\5. Value Type Assignment and Independence\Value Type Assignment and Independence\bin\Debug\net9.0\Value Type Assignment and Independence.runtimeconfig.json
+D:\Problem Solving\5. Value Type Assignment and Independence\Value Type Assignment and Independence\bin\Debug\net9.0\Value Type Assignment and Independence.dll
+D:\Problem Solving\5. Value Type Assignment and Independence\Value Type Assignment and Independence\bin\Debug\net9.0\Value Type Assignment and Independence.pdb
+D:\Problem Solving\5. Value Type Assignment and Independence\Value Type Assignment and Independence\obj\Debug\net9.0\Value Type Assignment and Independence.dll
+D:\Problem Solving\5. Value Type Assignment and Independence\Value Type Assignment and Independence\obj\Debug\net9.0\refint\Value Type Assignment and Independence.dll
+D:\Problem Solving\5. Value Type Assignment and Independence\Value Type Assignment and Independence\obj\Debug\net9.0\Value Type Assignment and Independence.pdb
+D:\Problem Solving\5. Value Type Assignment and Independence\Value Type Assignment and Independence\obj\Debug\net9.0\Value Type Assignment and Independence.genruntimeconfig.cache
+D:\Problem Solving\5. Value Type Assignment and Independence\Value Type Assignment and Independence\obj\Debug\net9.0\ref\Value Type Assignment and Independence.dll
