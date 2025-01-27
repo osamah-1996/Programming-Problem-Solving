@@ -1,0 +1,15 @@
+D:\Problem Solving\4. Extract a substring\Extract a substring\bin\Debug\net9.0\Extract a substring.exe
+D:\Problem Solving\4. Extract a substring\Extract a substring\bin\Debug\net9.0\Extract a substring.deps.json
+D:\Problem Solving\4. Extract a substring\Extract a substring\bin\Debug\net9.0\Extract a substring.runtimeconfig.json
+D:\Problem Solving\4. Extract a substring\Extract a substring\bin\Debug\net9.0\Extract a substring.dll
+D:\Problem Solving\4. Extract a substring\Extract a substring\bin\Debug\net9.0\Extract a substring.pdb
+D:\Problem Solving\4. Extract a substring\Extract a substring\obj\Debug\net9.0\Extract a substring.GeneratedMSBuildEditorConfig.editorconfig
+D:\Problem Solving\4. Extract a substring\Extract a substring\obj\Debug\net9.0\Extract a substring.AssemblyInfoInputs.cache
+D:\Problem Solving\4. Extract a substring\Extract a substring\obj\Debug\net9.0\Extract a substring.AssemblyInfo.cs
+D:\Problem Solving\4. Extract a substring\Extract a substring\obj\Debug\net9.0\Extract a substring.csproj.CoreCompileInputs.cache
+D:\Problem Solving\4. Extract a substring\Extract a substring\obj\Debug\net9.0\Extract a substring.sourcelink.json
+D:\Problem Solving\4. Extract a substring\Extract a substring\obj\Debug\net9.0\Extract a substring.dll
+D:\Problem Solving\4. Extract a substring\Extract a substring\obj\Debug\net9.0\refint\Extract a substring.dll
+D:\Problem Solving\4. Extract a substring\Extract a substring\obj\Debug\net9.0\Extract a substring.pdb
+D:\Problem Solving\4. Extract a substring\Extract a substring\obj\Debug\net9.0\Extract a substring.genruntimeconfig.cache
+D:\Problem Solving\4. Extract a substring\Extract a substring\obj\Debug\net9.0\ref\Extract a substring.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Extract a substring/1.0.0": {
+        "runtime": {
+          "Extract a substring.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Extract a substring/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
