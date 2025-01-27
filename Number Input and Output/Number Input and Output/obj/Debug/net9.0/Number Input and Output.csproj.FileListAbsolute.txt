@@ -1,0 +1,14 @@
+D:\Problem Solving\C# Problem Solving\Number Input and Output\Number Input and Output\bin\Debug\net9.0\Number Input and Output.exe
+D:\Problem Solving\C# Problem Solving\Number Input and Output\Number Input and Output\bin\Debug\net9.0\Number Input and Output.deps.json
+D:\Problem Solving\C# Problem Solving\Number Input and Output\Number Input and Output\bin\Debug\net9.0\Number Input and Output.runtimeconfig.json
+D:\Problem Solving\C# Problem Solving\Number Input and Output\Number Input and Output\bin\Debug\net9.0\Number Input and Output.dll
+D:\Problem Solving\C# Problem Solving\Number Input and Output\Number Input and Output\bin\Debug\net9.0\Number Input and Output.pdb
+D:\Problem Solving\C# Problem Solving\Number Input and Output\Number Input and Output\obj\Debug\net9.0\Number Input and Output.GeneratedMSBuildEditorConfig.editorconfig
+D:\Problem Solving\C# Problem Solving\Number Input and Output\Number Input and Output\obj\Debug\net9.0\Number Input and Output.AssemblyInfoInputs.cache
+D:\Problem Solving\C# Problem Solving\Number Input and Output\Number Input and Output\obj\Debug\net9.0\Number Input and Output.AssemblyInfo.cs
+D:\Problem Solving\C# Problem Solving\Number Input and Output\Number Input and Output\obj\Debug\net9.0\Number Input and Output.csproj.CoreCompileInputs.cache
+D:\Problem Solving\C# Problem Solving\Number Input and Output\Number Input and Output\obj\Debug\net9.0\Number Input and Output.dll
+D:\Problem Solving\C# Problem Solving\Number Input and Output\Number Input and Output\obj\Debug\net9.0\refint\Number Input and Output.dll
+D:\Problem Solving\C# Problem Solving\Number Input and Output\Number Input and Output\obj\Debug\net9.0\Number Input and Output.pdb
+D:\Problem Solving\C# Problem Solving\Number Input and Output\Number Input and Output\obj\Debug\net9.0\Number Input and Output.genruntimeconfig.cache
+D:\Problem Solving\C# Problem Solving\Number Input and Output\Number Input and Output\obj\Debug\net9.0\ref\Number Input and Output.dll
