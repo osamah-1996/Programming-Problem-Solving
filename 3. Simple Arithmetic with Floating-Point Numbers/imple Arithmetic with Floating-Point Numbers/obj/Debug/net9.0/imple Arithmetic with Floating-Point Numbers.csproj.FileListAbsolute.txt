@@ -1,0 +1,15 @@
+D:\Problem Solving\imple Arithmetic with Floating-Point Numbers\imple Arithmetic with Floating-Point Numbers\bin\Debug\net9.0\imple Arithmetic with Floating-Point Numbers.exe
+D:\Problem Solving\imple Arithmetic with Floating-Point Numbers\imple Arithmetic with Floating-Point Numbers\bin\Debug\net9.0\imple Arithmetic with Floating-Point Numbers.deps.json
+D:\Problem Solving\imple Arithmetic with Floating-Point Numbers\imple Arithmetic with Floating-Point Numbers\bin\Debug\net9.0\imple Arithmetic with Floating-Point Numbers.runtimeconfig.json
+D:\Problem Solving\imple Arithmetic with Floating-Point Numbers\imple Arithmetic with Floating-Point Numbers\bin\Debug\net9.0\imple Arithmetic with Floating-Point Numbers.dll
+D:\Problem Solving\imple Arithmetic with Floating-Point Numbers\imple Arithmetic with Floating-Point Numbers\bin\Debug\net9.0\imple Arithmetic with Floating-Point Numbers.pdb
+D:\Problem Solving\imple Arithmetic with Floating-Point Numbers\imple Arithmetic with Floating-Point Numbers\obj\Debug\net9.0\imple Arithmetic with Floating-Point Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Problem Solving\imple Arithmetic with Floating-Point Numbers\imple Arithmetic with Floating-Point Numbers\obj\Debug\net9.0\imple Arithmetic with Floating-Point Numbers.AssemblyInfoInputs.cache
+D:\Problem Solving\imple Arithmetic with Floating-Point Numbers\imple Arithmetic with Floating-Point Numbers\obj\Debug\net9.0\imple Arithmetic with Floating-Point Numbers.AssemblyInfo.cs
+D:\Problem Solving\imple Arithmetic with Floating-Point Numbers\imple Arithmetic with Floating-Point Numbers\obj\Debug\net9.0\imple Arithmetic with Floating-Point Numbers.csproj.CoreCompileInputs.cache
+D:\Problem Solving\imple Arithmetic with Floating-Point Numbers\imple Arithmetic with Floating-Point Numbers\obj\Debug\net9.0\imple Arithmetic with Floating-Point Numbers.sourcelink.json
+D:\Problem Solving\imple Arithmetic with Floating-Point Numbers\imple Arithmetic with Floating-Point Numbers\obj\Debug\net9.0\imple Arithmetic with Floating-Point Numbers.dll
+D:\Problem Solving\imple Arithmetic with Floating-Point Numbers\imple Arithmetic with Floating-Point Numbers\obj\Debug\net9.0\refint\imple Arithmetic with Floating-Point Numbers.dll
+D:\Problem Solving\imple Arithmetic with Floating-Point Numbers\imple Arithmetic with Floating-Point Numbers\obj\Debug\net9.0\imple Arithmetic with Floating-Point Numbers.pdb
+D:\Problem Solving\imple Arithmetic with Floating-Point Numbers\imple Arithmetic with Floating-Point Numbers\obj\Debug\net9.0\imple Arithmetic with Floating-Point Numbers.genruntimeconfig.cache
+D:\Problem Solving\imple Arithmetic with Floating-Point Numbers\imple Arithmetic with Floating-Point Numbers\obj\Debug\net9.0\ref\imple Arithmetic with Floating-Point Numbers.dll
