@@ -1,0 +1,15 @@
+D:\Problem Solving\String to Integer Conversion\String to Integer Conversion\bin\Debug\net9.0\String to Integer Conversion.exe
+D:\Problem Solving\String to Integer Conversion\String to Integer Conversion\bin\Debug\net9.0\String to Integer Conversion.deps.json
+D:\Problem Solving\String to Integer Conversion\String to Integer Conversion\bin\Debug\net9.0\String to Integer Conversion.runtimeconfig.json
+D:\Problem Solving\String to Integer Conversion\String to Integer Conversion\bin\Debug\net9.0\String to Integer Conversion.dll
+D:\Problem Solving\String to Integer Conversion\String to Integer Conversion\bin\Debug\net9.0\String to Integer Conversion.pdb
+D:\Problem Solving\String to Integer Conversion\String to Integer Conversion\obj\Debug\net9.0\String to Integer Conversion.GeneratedMSBuildEditorConfig.editorconfig
+D:\Problem Solving\String to Integer Conversion\String to Integer Conversion\obj\Debug\net9.0\String to Integer Conversion.AssemblyInfoInputs.cache
+D:\Problem Solving\String to Integer Conversion\String to Integer Conversion\obj\Debug\net9.0\String to Integer Conversion.AssemblyInfo.cs
+D:\Problem Solving\String to Integer Conversion\String to Integer Conversion\obj\Debug\net9.0\String to Integer Conversion.csproj.CoreCompileInputs.cache
+D:\Problem Solving\String to Integer Conversion\String to Integer Conversion\obj\Debug\net9.0\String to Integer Conversion.sourcelink.json
+D:\Problem Solving\String to Integer Conversion\String to Integer Conversion\obj\Debug\net9.0\String to Integer Conversion.dll
+D:\Problem Solving\String to Integer Conversion\String to Integer Conversion\obj\Debug\net9.0\refint\String to Integer Conversion.dll
+D:\Problem Solving\String to Integer Conversion\String to Integer Conversion\obj\Debug\net9.0\String to Integer Conversion.pdb
+D:\Problem Solving\String to Integer Conversion\String to Integer Conversion\obj\Debug\net9.0\String to Integer Conversion.genruntimeconfig.cache
+D:\Problem Solving\String to Integer Conversion\String to Integer Conversion\obj\Debug\net9.0\ref\String to Integer Conversion.dll
